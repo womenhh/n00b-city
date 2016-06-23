@@ -1,0 +1,7 @@
+Testing creating a text file from the command prompt.
+
+Who knows what could happen as a result of magical git things?
+
+NB: Google is helpful for finding out how to do what you want, in spite of MS Windows OS.
+
+Peace out.
