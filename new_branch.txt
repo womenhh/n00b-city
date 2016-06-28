@@ -1,0 +1,4 @@
+This is a file created with a new branch.
+The new branch is called new branch.
+It's going to be merged with the master branch fairly soon.
+I look forward to the merging of the branches.
